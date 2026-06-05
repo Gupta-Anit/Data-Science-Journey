@@ -68,6 +68,6 @@ jupyter notebook "Salary Predictions Project.ipynb"
 
 The standalone snippets in `Code_Snippets/` and the SQL files under `Interviews/` can be read or copied directly; they do not require installation.
 
-## License
+## License & attribution
 
-Released under the [MIT License](LICENSE).
+This repository aggregates personal notes alongside **third-party educational content** (notably a Salary Prediction project framework and interview materials from **Mikiko Bazeley / Springboard**). Because of that, **no blanket open-source license is asserted**; see [`ATTRIBUTION.md`](ATTRIBUTION.md). Rights to third-party material remain with their original authors.
